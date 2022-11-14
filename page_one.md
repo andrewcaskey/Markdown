@@ -7,3 +7,5 @@ ___You can add links and more ___
            <summary>You can even create dropdowns</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
+
+next page = https://github.com/andrewcaskey/Markdown/blob/main/page_two.md
