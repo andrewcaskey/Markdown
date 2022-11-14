@@ -9,3 +9,4 @@ ___You can add links and more ___
 </details>
 
 next page = https://github.com/andrewcaskey/Markdown/blob/main/page_two.md
+home page = https://github.com/andrewcaskey/Markdown/edit/main/README.md
