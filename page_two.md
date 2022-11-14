@@ -18,3 +18,5 @@ Some kinds of blockchains include
               * Security 
               # Decentralization
 
+next page = https://github.com/andrewcaskey/Markdown/blob/main/page_three.md
+home page = https://github.com/andrewcaskey/Markdown/edit/main/README.md
